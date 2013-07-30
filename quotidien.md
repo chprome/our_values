@@ -1,5 +1,9 @@
 # Au quotidien
 
+## Réunion
+
+* Les points à aborder lors d'une réunon doivent être envoyés par mail aux participants au moins **une heure avant**. Cela comprend également les questions fonctionneles que l'on souhaite poser aux experts métiers.
+
 ## Binômage
 
 * Les stories ont été ordonnées par le PO ; un binôme libre prend la story la plus prioritaire : on ne choisit pas !
